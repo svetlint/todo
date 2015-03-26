@@ -359,6 +359,7 @@ class Home {
     
 }
 
+//basi mamata, gita gi ocvetqva v zeleno da go eba 
 
 class dbOperations {
     
