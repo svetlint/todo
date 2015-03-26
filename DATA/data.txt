@@ -1,0 +1,1 @@
+{"firstName":"Kiro","lastname":"Gergov","hobbies":{"hobby1":"Sports","hobby2":"fishing"},"addresses":{"address1":"home","address2":"work"}}
